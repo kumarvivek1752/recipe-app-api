@@ -1,7 +1,5 @@
 ---
-	name: Checks
-
- 
+name: Checks 
 on: [push]
 
 jobs:
