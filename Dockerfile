@@ -1,4 +1,4 @@
-FROM python:3.9-alpine3.13
+FROM python:3.11-alpine
 LABEL maintainer="kumarvivek1752@gmail.com"
 ENV PYTHONUNBUFFERED 1
 COPY ./requirements.txt /tmp/requirements.txt
