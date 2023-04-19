@@ -3,8 +3,10 @@ Recipe app Api
 
 
 # installation 
-`docker-compose build`
-`docker-compose up`
+```
+docker-compose build
+docker-compose up
+```
 
 # Development server
 
