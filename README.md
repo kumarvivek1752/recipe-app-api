@@ -14,3 +14,6 @@ docker-compose up
 
 # Api Docs
 `http://127.0.0.1:8000/api/docs/`
+
+# Test
+`docker-compose run --rm app sh -c "python manage.py test"`
